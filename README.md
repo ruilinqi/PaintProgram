@@ -1,4 +1,4 @@
-# myproject
+# myproject：Paint Program
 Project Name: Paint Program
 
 Description: 
